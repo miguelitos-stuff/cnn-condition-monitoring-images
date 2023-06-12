@@ -10,6 +10,5 @@ Figure 14 shows the plots for sensor 4, etc.
   <figcaption>Figure 12: An overview of the positions of the sensors on the wind turbine gearbox. In this image AN3-AN10
 represent the location of sensor 3 to sensor 10. </figcaption>
 </figure>
-![Sensor Locations](Sensor_Positions.png)
-**
+
 
