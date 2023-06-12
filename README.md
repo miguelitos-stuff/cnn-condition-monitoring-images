@@ -11,7 +11,7 @@ Figure 14 shows the plots for sensor 4, and so on.
 represent the location of sensor 3 to sensor 10. </figcaption>
 </figure>
 
-The following figures consist of the different data images
+The following figures consist of the different data images:
 
 AMED Sensor 3 performance | FRED Sensor 3 performance
 --- | ---
