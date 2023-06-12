@@ -12,3 +12,6 @@ represent the location of sensor 3 to sensor 10. </figcaption>
 </figure>
 
 
+AMED Sensor 3 performance | FRED Sensor 3 performance
+--- | ---
+![amed3](AMED_test_sensor_3_ZER0_noise.png) | ![fred3](FRED_30_test_sensor_3_ZER0_noise.png)
